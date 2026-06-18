@@ -75,15 +75,15 @@ body{
     height: 35%;
     background-color: rgb(248, 248, 248);
     
-    padding-top: 110px;
+    padding-top: 100px;
     width : 100%;
 }
 
 .header > p{
-    font-size: 23px;
+    font-size: 20px;
     font-weight: bolder;
     margin-left: 80px;
-    margin-right: 250px;
+    margin-right: 240px;
     margin-bottom: 45px;
     
 }
